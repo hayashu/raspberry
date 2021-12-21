@@ -1,0 +1,1 @@
+curl -X POST -H "Authorization: Bearer Ai2BoygLdiZGghJdyUQaDJsucC3pkDsdDJIsxqZFwc6" -F "message =hello raspberry pi" https://notify-api.line.me/api/notify
